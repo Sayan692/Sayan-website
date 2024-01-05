@@ -43,19 +43,19 @@ body {
     border-collapse: collapse;
   }
   th, td {
-    border: 1px solid #f8f6f6;
+    border: 1px solid #4a4c4f;
     padding: 8px;
     text-align: left;
   }
   th {
-    background-color: #061c29;
+    background-color: #4f7388;
   }
-  tr:nth-child(even) {
-    background-color: #f9f9f9;
+  td{
+    background-color: rgb(150, 160, 171);
   }
-  tr:hover {
-    background-color: #f1f1f1;
-  }
+.certificate{
+margin-bottom: 20px;
+}
 .h2 {
 	background-color: rgb(4, 96, 150);
 }
